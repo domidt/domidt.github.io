@@ -42,6 +42,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Ongoing work
+======
+  <ul>{% for post in site.ongoing %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
