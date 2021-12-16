@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/PublicFinance
 venue: "University of Innsbruck, Department of Public Finance"
-date: 2019-10-01
+semester: 2019-10-01
 location: "Innsbruck, Austria"
 ---
 
