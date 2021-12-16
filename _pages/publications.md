@@ -17,6 +17,6 @@ author_profile: true
 
 Ongoing
 ======
-  <ul>{% for post in site.ongoing %}
+  {% for post in site.ongoing %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
