@@ -1,7 +1,7 @@
 ---
 title: "Insider trading legislation and trader migration"
-collection: ongoing
-permalink: ongoing/TwoMarket
+collection: publications
+permalink: publications/TwoMarket
 excerpt: ''
 date: 2022-06-17
 venue: ''
