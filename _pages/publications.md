@@ -17,6 +17,6 @@ author_profile: true
 
 Ongoing
 ======
-  {% for post in site.ongoing %}
-    {% include archive-single-cv.html %}
+  {% for post in site.ongoing reversed %}
+    {% include archive-single.html %}
   {% endfor %}
