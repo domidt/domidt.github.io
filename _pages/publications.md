@@ -14,10 +14,3 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
----
-layout: archive
-title: "Ongoing work"
-permalink: /ongoing/
-author_profile: true
----
