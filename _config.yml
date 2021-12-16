@@ -14,7 +14,7 @@ title_separator          : "|"
 name                     : &name "Dominik Schmidt"
 description              : &description "personal page"
 logo                     : "/images/DominikSchmidt.png"
-teaser                   : "/assets/images/Ginko.png"
+teaser                   : "/images/Ginko.png"
 url                      : "https://domidt.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "domidt.domidt.github.io"
@@ -92,7 +92,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "dominikschmidt.ac@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Dominik-Schmidt-8"
+  researchgate     : "Dominik-Schmidt-8"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,8 +106,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/dominikschmidt1992/"
-  orcid            : "http://orcid.org/0000-0001-6758-618X"
+  linkedin         : "/dominikschmidt1992/"
+  orcid            : "/0000-0001-6758-618X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
