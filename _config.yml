@@ -187,7 +187,7 @@ collections:
     permalink: /:collection/:path/
   ongoing:
     output: true
-    permalink: /publications/:path/
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
