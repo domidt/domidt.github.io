@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "PS Economics & the Public Sector"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/PublicFinance
+venue: "University of Innsbruck, Department of Public Finance"
+date: 2019-10-01
+location: "Innsbruck, Austria"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
