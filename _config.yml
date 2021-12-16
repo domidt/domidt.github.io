@@ -100,14 +100,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : domidt
+  github           : "domidt"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/dominikschmidt1992/
-  orcid            : http://orcid.org/0000-0001-6758-618X
+  linkedin         : "https://www.linkedin.com/in/dominikschmidt1992/"
+  orcid            : "http://orcid.org/0000-0001-6758-618X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
