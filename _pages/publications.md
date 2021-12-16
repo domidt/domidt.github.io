@@ -14,3 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Ongoing
+======
+  <ul>{% for post in site.ongoing %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
