@@ -1,3 +1,4 @@
+---
 title: "Insider trading legislation and trader migration"
 collection: ongoing
 permalink: /ongoing/TwoMarkets
