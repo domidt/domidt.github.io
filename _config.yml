@@ -239,7 +239,7 @@ defaults:
       path: ""
       type: ongoing
     values:
-      layout: ongoing
+      layout: single
       author_profile: true
       comments: true
   # _portfolio
