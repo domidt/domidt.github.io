@@ -18,5 +18,5 @@ author_profile: true
 Ongoing
 ======
   {% for post in site.ongoing reversed %}
-    {% include archive-single.html %}
+    {% include archive-single-ongoing.html %}
   {% endfor %}
