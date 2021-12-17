@@ -3,7 +3,7 @@ title: "Insider trading legislation and trader migration"
 collection: ongoing
 permalink: /ongoing/TwoMarkets
 excerpt: 'Paper aims to analyse traders' behaviour and their intention to migrate between markets, if they are free to trade in multiple markets with different prevailing insider trading legislation.'
-author: Robert Merl, Stefan Palan, Dominik Schmidt, & Thomas Stöckl
+author: 'Robert Merl, Stefan Palan, Dominik Schmidt, & Thomas Stöckl'
 ---
 
 Paper aims to analyse traders' behaviour and their intention to migrate between markets, if they are free to trade in multiple markets with different prevailing insider trading legislation.
