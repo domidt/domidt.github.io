@@ -2,8 +2,8 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-   - title: "Ongoing Work"
+  
+  - title: "Ongoing Work"
     url: /ongoing/
 
   - title: "Talks"
