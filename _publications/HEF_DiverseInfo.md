@@ -3,9 +3,10 @@ title: "Asset market experiments with diverse information"
 collection: publications
 permalink: /publication/HEF_DiverseInfo
 excerpt: ''
+author: Dominik Schmidt & Thomas Stöckl
 date: 2009-10-01
 venue: 'Handbook of experimental Finance'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://ssrn.com/abstract=3947626'
 citation: 'Schmidt, D. & Stöckl, T. (2021). &quot;Asset market experiments with diverse information&quot; <i>Handbook of experimenal Finance 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
