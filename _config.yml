@@ -239,9 +239,8 @@ defaults:
       path: ""
       type: ongoing
     values:
-      layout: single
+      layout: ongoing
       author_profile: true
-      share: true
       comments: true
   # _portfolio
   - scope:
