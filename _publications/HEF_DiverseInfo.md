@@ -3,7 +3,7 @@ title: "Asset market experiments with diverse information"
 collection: publications
 permalink: /publication/HEF_DiverseInfo
 excerpt: 'Paper reviews the experimental finance literature investigating markets with different information structures to better understand how these structures influence trader behavior and market outcomes.'
-author: Dominik Schmidt & Thomas Stöckl
+author: 'Dominik Schmidt & Thomas Stöckl'
 date: 2009-10-01
 venue: 'Handbook of experimental Finance'
 paperurl: 'https://ssrn.com/abstract=3947626'
