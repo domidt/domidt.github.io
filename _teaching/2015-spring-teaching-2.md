@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Quantitative Methods of Empirical Research"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lecture"
+permalink: /teaching/QMER
+venue: "Management Center Innsbruck, Department of Business & Management"
+semeser: "2019W, 2020W, 2021W"
+location: "Innstbruck Austria"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
