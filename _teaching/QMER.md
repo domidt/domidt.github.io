@@ -1,12 +1,13 @@
 ---
 title: "Quantitative Methods of Empirical Research"
 collection: teaching
-type: "Lecture"
+type: "Undergraduate course"
 permalink: /teaching/QMER
 venue: "Management Center Innsbruck, Department of Business & Management"
 semester: "2019W, 2020W, 2021W"
-location: "Innstbruck Austria"
+location: "Innstbruck, Austria"
 ---
+
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
