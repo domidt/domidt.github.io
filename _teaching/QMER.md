@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecture"
 permalink: /teaching/QMER
 venue: "Management Center Innsbruck, Department of Business & Management"
-semeser: "2019W, 2020W, 2021W"
+semester: "2019W, 2020W, 2021W"
 location: "Innstbruck Austria"
 ---
 
