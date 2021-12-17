@@ -9,6 +9,7 @@ venue: 'Handbook of experimental Finance'
 paperurl: 'https://ssrn.com/abstract=3947626'
 citation: 'Schmidt, D. & Stöckl, T. (2021). &quot;Asset market experiments with diverse information&quot; <i>Handbook of experimenal Finance 1</i>. 1(1).'
 ---
+
 Paper reviews the experimental finance literature investigating markets with different information structures to better understand how these structures influence trader behavior and market outcomes. 
 
 [Abstract](https://ssrn.com/abstract=3947626)
