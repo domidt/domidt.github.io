@@ -7,6 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching | sort: "ord_num" reverse %}
+{% for post in site.teaching | sort: "ord_num" reversed %}
   {% include archive-single.html %}
 {% endfor %}
