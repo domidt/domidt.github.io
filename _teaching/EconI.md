@@ -1,5 +1,5 @@
 ---
-title: "SeL Fundamentals in Economics"
+title: "SL Fundamentals in Economics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/EconI
