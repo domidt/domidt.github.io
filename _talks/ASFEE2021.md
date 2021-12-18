@@ -1,5 +1,5 @@
 ---
-title: "11<sup>th<\sup> International Conference of the French Association of Experimental Economics"
+title: "11<sup>th</sup> International Conference of the French Association of Experimental Economics"
 collection: talks
 type: "Conference presentation"
 permalink: /talks/ASFEE2021
