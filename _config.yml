@@ -187,15 +187,19 @@ collections:
       - QMER.md
       - BRC.md
       - EconI.md
+    sort_order: forward
   publications:
     output: true
     permalink: /:collection/:path/
+    sort_order: reverse
   ongoing:
     output: true
     permalink: /:collection/:path/
+    sort_order: reverse
   talks:
     output: true
     permalink: /:collection/:path/
+    sort_order: reverse
 
 
 # Defaults
