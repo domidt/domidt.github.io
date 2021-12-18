@@ -36,7 +36,7 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.author %}<p class="archive__item-excerpt" itemprop="description" aria-hidden="true"> {{ post.author }} </p>{% endif %}{% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i>> ({{ post.date | default: "1900-01-01" | date: "%Y" }}) </p> {% endif %} 
+    {% if post.date %}<p class="page__meta"> {{ post.author }} ({{ post.date | default: "1900-01-01" | date: "%Y" }}) </p> {% endif %} 
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description" aria-hidden="true">{{ post.venue }}</p> {% endif %} 
     </li>
  </article>
