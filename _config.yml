@@ -182,6 +182,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+    sort_by: ord_num
     order:
       - PSPublicSector.md
       - QMER.md
