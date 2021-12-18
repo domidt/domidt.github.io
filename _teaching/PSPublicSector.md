@@ -5,16 +5,8 @@ type: "Undergraduate course"
 permalink: /teaching/PSPublicSector
 venue: "University of Innsbruck, Department of Public Finance"
 semester: "2019W, 2020W"
+ord_num: 2021.1
 location: "Innsbruck, Austria"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The course provides an introduction to Public Economics, usually attended in the third semester after completion of the courses in Fundamentals in Economics and Theory of Economic Decisions. The course learns students to find arguments for the following questions: When should the government intervene in the economy? Which instruments are available to the government for interventions? How will government intervention affect the decisions of market participants and market outcomes?
