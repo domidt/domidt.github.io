@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/QMER
 venue: "Management Center Innsbruck, Department of Business & Management"
 semester: "2019W, 2020W, 2021W"
+ord_num: 2021.2
 location: "Innstbruck, Austria"
 ---
 
@@ -12,7 +13,7 @@ location: "Innstbruck, Austria"
 This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
-======
+
 
 Heading 2
 ======
