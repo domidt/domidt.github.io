@@ -181,14 +181,8 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  sort_by: ord_num
-  sort_order: reverse
-  order:
-      - PSPublicSector.md
-      - QMER.md
-      - BRC.md
-      - EconI.md
-    sort_order: forward
+    sort_by: ord_num
+    sort_order: reverse
   publications:
     output: true
     permalink: /:collection/:path/
