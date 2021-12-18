@@ -183,6 +183,7 @@ collections:
     output: true
     permalink: /:collection/:path/
     sort_by: ord_num
+    sort_order: reverse
     order:
       - PSPublicSector.md
       - QMER.md
