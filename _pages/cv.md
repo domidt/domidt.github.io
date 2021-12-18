@@ -56,7 +56,7 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching | sort: "obs_num" reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
