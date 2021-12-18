@@ -50,13 +50,13 @@ Ongoing work
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
+  <ul>{% for post in site.talks reverse %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching | sort: "obs_num" reversed%}
+  <ul>{% for post in site.teaching | sort: "obs_num" reverse %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
