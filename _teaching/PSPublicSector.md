@@ -2,7 +2,7 @@
 title: "PS Economics & the Public Sector"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/PublicFinance
+permalink: /teaching/PSPublicSector
 venue: "University of Innsbruck, Department of Public Finance"
 semester: "2019W, 2020W"
 location: "Innsbruck, Austria"
