@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/EconI
 venue: "University of Innsbruck, Department of Economic Theory, Economic Policy and Economic History"
 semester: "2019S"
-ord_num: 2019
+date: 2019-03-15
 location: "Innsbruck, Austria"
 ---
 
