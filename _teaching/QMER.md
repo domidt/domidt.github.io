@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/QMER
 venue: "Management Center Innsbruck, Department of Business & Management"
 semester: "2019W, 2020W, 2021W"
-ord_num: 2021.2
+date: 2021-11-22
 location: "Innstbruck, Austria"
 ---
 
