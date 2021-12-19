@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/PSPublicSector
 venue: "University of Innsbruck, Department of Public Finance"
 semester: "2019W, 2020W"
-ord_num: 2021.1
+date: 2021-12-12
 location: "Innsbruck, Austria"
 ---
 
