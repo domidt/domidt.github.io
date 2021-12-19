@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Economics, University of Innsbruck, Austria (2022, expected)
+* Master in Applied Economics, University of Innsbruck, Austria (2019)
+* Bachelor in Economics & Management, University of Bozen, Italy (2016)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2019 to 2022: Research Assistant
+  * Management Center Innsbruck, Department of Business & Management
+  * Supervisor: FH-Prof. PD DR. Thomas Stöckl
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2019: Research Assistant
+  * University of Innsbruck, Department of Public Finance
+  * PI: Associate Professor Esther Blanco
   
-Skills
+Fields of interest
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Microeconomics
+* Behavioural economics
+* Experiemental economics
+* Information economics
 
 Publications
 ======
@@ -59,7 +55,11 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+ 
+IT Skills
 ======
-* Currently signed in to 43 different slack teams
+* R
+* Stata
+* Matlab
+* Python
+* Mathematica
