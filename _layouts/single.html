@@ -46,14 +46,14 @@ layout: default
         {% endif %}
 
     {% if page.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    <p class="archive__item-excerpt" itemprop="description">{{ page.excerpt | markdownify }}</p>
     {% elsif page.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ page.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ page.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
     {% if page.citation and page.paperurl %}
       <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
-    {% elsif post.citation %}
+    {% elsif page.citation %}
       <p>Recommended citation: {{ page.citation }} </p>
     {% elsif page.paperurl %}
       <p>Download <a href=" {{ page.paperurl }} "><u>here</u></a></p>
