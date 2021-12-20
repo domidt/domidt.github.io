@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
   
-  - title: "Ongoing Work"
-    url: /ongoing/
+  - title: "Work in progress"
+    url: /inProgress/
 
   - title: "Talks"
     url: /talks/    
