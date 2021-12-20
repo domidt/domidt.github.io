@@ -35,7 +35,7 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
-        {% if page.collection == 'ongoing' %}
+        {% if page.collection == 'progress' %}
           <p> {{ page.author }} </p>
         {% elsif page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i> ({{ page.semester }}) </p>
