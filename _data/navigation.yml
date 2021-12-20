@@ -4,7 +4,7 @@ main:
     url: /publications/
   
   - title: "Work in progress"
-    url: /inProgress/
+    url: /progress/
 
   - title: "Talks"
     url: /talks/    
