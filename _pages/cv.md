@@ -23,7 +23,10 @@ Work experience
 
 * June 2019: Research Assistant
   * University of Innsbruck, Department of Public Finance
-  * PI: Associate Professor Esther Blanco
+
+* June 2018 to September 2019: Student Assistant
+  * University of Innsbruck, Department of Public Finance, Department of Banking and Finance, and Department of Economics
+
   
 Fields of interest
 ======
@@ -38,7 +41,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Ongoing work
+Work in progress
 ======
   <ul>{% for post in site.ongoing %}
     {% include archive-single-cv.html %}
