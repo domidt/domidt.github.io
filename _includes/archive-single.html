@@ -38,7 +38,7 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'ongoing' %}
+        {% if post.collection == 'progress' %}
           <p> {{ post.author }} </p>
         {% elsif post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i> ({{ post.semester }}) </p>
