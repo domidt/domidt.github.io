@@ -184,7 +184,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  ongoing:
+  progress:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -230,10 +230,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _ongoing
+  # _progress
   - scope:
       path: ""
-      type: ongoing
+      type: progress
     values:
       layout: single
       author_profile: true
