@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, University of Innsbruck, Austria (2022, expected)
-* Master in Applied Economics, University of Innsbruck, Austria (2019)
-* Bachelor in Economics & Management, University of Bozen, Italy (2016)
+  <ul>{% for post in site.education %}
+    {% include archive-single-edu-cv.html %}
+  {% endfor %}</ul>
 
 Work experience
 ======
