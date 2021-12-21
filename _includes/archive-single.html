@@ -38,7 +38,13 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'progress' %}
+    {% if post.collection == 'education' %}
+          <p class="page__date"><strong><i class="fa fa-graduation-cap" aria-hidden="true"></i> Graduated on {{ post.date }} at the {{ post.venue }} </p>
+    {% endif %}
+    
+        {% if post.collection == 'education' %}
+          <p> Thesis title: {{ post.thesis }} supervised by {{ post.supervisor }} </p>
+        {% elsif post.collection == 'progress' %}
           <p> {{ post.author }} </p>
         {% elsif post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i> ({{ post.semester }}) </p>
