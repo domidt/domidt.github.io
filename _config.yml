@@ -190,6 +190,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  education:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -234,6 +237,15 @@ defaults:
   - scope:
       path: ""
       type: progress
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _education
+  - scope:
+      path: ""
+      type: education
     values:
       layout: single
       author_profile: true
