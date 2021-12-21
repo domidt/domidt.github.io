@@ -27,6 +27,9 @@ Work experience
 * June 2018 to September 2019: Student Assistant
   * University of Innsbruck, Department of Public Finance, Department of Banking and Finance, and Department of Economics
 
+* February 2016 to April 2016: Internship
+  * Deutsche Börse Group, Group Risk Monitoring, Eschborn, Germany  
+
   
 Fields of interest
 ======
