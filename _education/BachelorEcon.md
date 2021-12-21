@@ -4,6 +4,6 @@ collection: education
 permalink: /education/BachelorEcon
 venue: University of Bozen
 date: 2016-03-16
-thesis: '&quot;Competition among advisers&quot;'
-supervisor: "Univ.-Prof. Dr. Markus Walzl"
+thesis: '&quot;Bilateral exchange rate DKK: The Danish Krone as a safe haven currency&quot;'
+supervisor: "Prof. Dr. Alex Weissensteiner"
 ---
