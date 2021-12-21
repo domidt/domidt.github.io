@@ -43,7 +43,7 @@ Publications
   
 Work in progress
 ======
-  <ul>{% for post in site.ongoing %}
+  <ul>{% for post in site.progress %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
