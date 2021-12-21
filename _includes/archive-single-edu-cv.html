@@ -33,7 +33,7 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-   {% if post.collection == "education" %}<p class="page__meta"><i class="fa fa-graduation-cap" aria-hidden="true"></i> at the {{ post.venue }} ({{ post.date | default: "1900-01-01" | date: "%Y" }}) </p> 
+   {% if post.collection == "education" %}<p class="page__meta"><i class="fa fa-graduation-cap" aria-hidden="true"></i> at the {{ post.venue }} ({{ post.date | date: '%B, %Y' }}) </p> 
    {% endif %}   
     </li>
  </article>
