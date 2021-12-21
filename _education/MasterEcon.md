@@ -4,6 +4,6 @@ collection: education
 permalink: /education/MasterEcon
 venue: University of Innsbruck
 date: 2019-10-07
-thesis: 'Competition among advisers'
+thesis: '&quot;Competition among advisers&quot;'
 supervisor: "Univ.-Prof. Dr. Markus Walzl"
 ---
