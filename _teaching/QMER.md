@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/QMER
 venue: "Management Center Innsbruck, Department of Business & Management"
+excerpt: "This course teaches students to develop their critical ability to independently undertake and solve business problems using quantitative research methods."
 semester: "2019W, 2020W, 2021W"
 date: 2021-11-22
 location: "Innsbruck, Austria"
