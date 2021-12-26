@@ -8,20 +8,27 @@ semester: "2019W, 2020W, 2021W"
 date: 2021-11-22
 location: "Innsbruck, Austria"
 ---
-In this course, students are expected to develop their critical ability to independently undertake and solve business problems using scientific methods. We start by reviewing different research methods and outlining the quantitative research process. Following a hands-on approach, we will, step-by-step, guide them through carrying out a small empirical research project in which they directly apply their new knowledge. Specifically, they learn how to develop, design, and implement a questionnaire for a predefined topic. Based on the collected data, they learn how to properly analyze it and how to prsent the research process as well as its results in form of a scientific paper.  knowledge and developed prac-
 
-tical skills so that you are able to 
+In this course, students are expected to develop their critical ability to independently undertake and solve business problems using scientific methods. We start by reviewing different research methods and outlining the quantitative research process. Following a hands-on approach, we guide students, step-by-step, through carrying out a small empirical research project in which they directly apply their new knowledge. Specifically, they learn how to develop, design, and implement a questionnaire for a predefined topic. Based on the collected data, they learn how to properly analyze it and how to present the research process as well as its results in form of a scientific paper. 
 
-• draft a concept for and develop an empirical survey based on a questermine and operationalize variables.
+The theoretical insights are structured in the following ten steps:
 
-• choose the appropriate scales and types of questions.
+### Step 1: Theory, problem definition, research question
 
-• structure a questionnaire.
+### Step 2: Hypotheses
 
-• discuss quality-related aspects like scientific quality criteria and pretests
+### Step 3: Research design
 
-Heading 2
-======
+### Step 4: Measurement of concepts; operationalisation and item developement
 
-Heading 3
-=
+### Step 5: Research site(s) and data sampling
+
+### Step 6: Research instruments and pretesting
+
+### Step 7: Process data
+
+### Step 8: Analyse data
+
+### Step 9: Findings and Conclusions
+
+### Step 10: Write up findings
