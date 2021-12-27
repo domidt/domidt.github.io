@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/PSPublicSector
 venue: "University of Innsbruck, Department of Public Finance"
 semester: "2019W, 2020W, 2021S"
-excerpt: "Thia course provides an introduction to Public Economics."
+excerpt: "This course provides an introduction to Public Economics."
 
 date: 2021-12-12
 location: "Innsbruck, Austria"
