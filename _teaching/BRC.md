@@ -1,5 +1,5 @@
 ---
-title: "Business Research Couching"
+title: "Business Research Coaching"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/BRC
