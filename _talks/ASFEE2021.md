@@ -3,7 +3,7 @@ title: "11<sup>th</sup> International Conference of the French Association of Ex
 collection: talks
 type: "Conference presentation"
 permalink: /talks/ASFEE2021
-venue: "Dijon, Burgundy School of Business"
+venue: "Burgundy School of Business"
 date: 2021-09-03
 location: "Dijon, France"
 ---
