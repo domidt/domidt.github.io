@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/EconI
 venue: "University of Innsbruck, Department of Economic Theory, Economic Policy and Economic History"
-excerpt: "This course provides students with a first introduction to the basics of microeconomic theory."
+excerpt: 'This course provides students with a first introduction to the basics of microeconomic theory.'
 semester: "2019S"
 date: 2019-03-15
 location: "Innsbruck, Austria"
