@@ -19,7 +19,7 @@ Work experience
 ======
 * February 2019 to 2022: Research Assistant
   * Management Center Innsbruck, Department of Business & Management
-  * Supervisor: FH-Prof. PD DR. Thomas Stöckl
+  * Supervisor: FH-Prof. PD Dr. Thomas Stöckl
 
 * June 2019: Research Assistant
   * University of Innsbruck, Department of Public Finance
