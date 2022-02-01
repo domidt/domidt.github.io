@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download CV here](http://domidt.github.io/files/CurriculumVitae.pdf)
 
 Education
 ======
