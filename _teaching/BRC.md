@@ -6,6 +6,7 @@ permalink: /teaching/BRC
 venue: "Management Center Innsbruck, Department of Business & Management"
 excerpt: 'This course coaches students to develop their own scientific research project and to prepare them for the bachelor''s thesis.'
 semester: "2020S, 2021S"
+ects: 3
 date: 2021-04-25
 location: "Innsbruck, Austria"
 ---
