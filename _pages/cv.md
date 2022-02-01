@@ -9,7 +9,6 @@ redirect_from:
 
 <p class="page__meta"><i class="fa fa-download" aria-hidden="true"></i> <a href="http://domidt.github.io/files/CurriculumVitae.pdf"> Download CV here </a> </p> 
 {% include base_path %}
-[Download CV here](http://domidt.github.io/files/CurriculumVitae.pdf)
 
 Education
 ======
