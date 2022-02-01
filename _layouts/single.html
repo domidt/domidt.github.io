@@ -44,7 +44,7 @@ layout: default
         {% elsif page.collection == 'progress' %}
           <p> {{ page.author }} </p>
         {% elsif page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i> ({{page.ects}}, {{ page.semester }}) </p>
+          <p> {{ page.type }}, <i>{{ page.venue }}</i> ({{ page.ects }} ECTS, {{ page.semester }}) </p>
         {% elsif page.collection == 'publications' %}
           <p>Published in <i>{{ page.venue }}</i> ({{ page.date | default: "1900-01-01" | date: "%Y" }}) </p>
         {% elsif page.date %}
