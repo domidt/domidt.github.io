@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<p class="page__meta"><i class="fa fa-download" aria-hidden="true"></i> <a href="http://domidt.github.io/files/CurriculumVitae.pdf"> Download CV here </a> </p> 
 {% include base_path %}
 
 Education
@@ -70,3 +69,5 @@ IT Skills
 * Matlab
 * Python
 * Mathematica
+
+<p class="page__meta"><i class="fa fa-download" aria-hidden="true"></i> <a href="http://domidt.github.io/files/CurriculumVitae.pdf"> Download CV here </a> </p> 
