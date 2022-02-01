@@ -23,7 +23,7 @@ Covers the criteria how to distinguish goods into the types of public goods. Fur
 Shows how deviations from the optimal consumption bundles emerge in the presence of externalities and conditions for a Pigou tax.
 
 ## Redistribution
-Discusses reasons when redistribution can increase total welfare and why unsophisticated tax designs can backfire.
+Discusses the first and second welfare theorem and when unsophisticated tax designs can backfire.
 
 ## Taxation
 Discusses the effects of taxes on products and how to disentangle them into substitution effect and income effect.
