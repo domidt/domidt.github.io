@@ -39,7 +39,7 @@
     {% if post.date and post.collection != "teaching" %}<p class="page__meta"> {{ post.author }} ({{ post.date | default: "1900-01-01" | date: "%Y" }}) </p> 
       {% elsif collection != "teaching" %}<p class="page__meta"> {{ post.author }} </p>
       {% endif %} 
-    {% if post.semester %}<p class="page__meta">{{ post.ects }} ECTS, {{ post.semester }}</p> {% endif %}
+    {% if post.semester %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.ects }} ECTS ({{ post.semester }})</p> {% endif %}
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description" aria-hidden="true">{{ post.venue }}</p> {% endif %}
     </li>
  </article>
