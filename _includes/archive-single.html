@@ -42,16 +42,11 @@
           <p class="page__date"><i class="fa fa-graduation-cap" aria-hidden="true"></i> Graduated on {{ post.date }} at the {{ post.venue }} </p>
     {% endif %}
     
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p> {% endif %}
     {% if post.author %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.author }}</p> {% endif %}
     {% if post.semester %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.ects }} ECTS ({{ post.semester }})</p> {% endif %}
-    {% if post.venue and post.date %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }} ({{post.date}}) </p>
+    {% if post.venue and post.author %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }} ({{ post.date | default: "1900-01-01" | date: "%Y" }}) </p>
     {% elsif post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }}</p> {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p> {% endif %}
     {% if post.thesis %}<p class="archive__item-excerpt" itemprop="description"> Thesis title: {{ post.thesis }} supervised by {{ post.supervisor }} </p>{% endif %}
-    {% if post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
