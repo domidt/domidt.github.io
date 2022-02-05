@@ -36,7 +36,7 @@ layout: default
         {% endif %}
 
         {% if page.collection == 'education' %}
-          <p class="page__date"><i class="fa fa-graduation-cap" aria-hidden="true"></i> Graduated on {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }} at the {{ page.venue }} </p>
+          <p class="page__meta"><i class="fa fa-graduation-cap" aria-hidden="true"></i> Graduated on {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }} at the {{ page.venue }} </p>
     {% endif %}
     
     {% if page.author %}<p class="page__meta" style="margin-bottom: 0;"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ page.author }}</p> {% endif %}
@@ -44,7 +44,7 @@ layout: default
     {% if page.venue and post.author %}<p class="archive__item-excerpt" itemprop="description"> {{ page.venue }} ({{ page.date | default: "1900-01-01" | date: "%Y" }}) </p>
       {% elsif page.thesis %}<p class="archive__item-excerpt" itemprop="description"> Thesis title: {{ page.thesis }} supervised by {{ page.supervisor }} </p>
       {% elsif page.venue %}<p class="archive__item-excerpt" itemprop="description"> {{ page.venue }}</p> 
-      {% else %}<p class="archive__item-excerpt" itemprop="description"> </p>       
+      {% else %}<p class="archive__item-excerpt" itemprop="description"> <i class="fa fa-clock-o" aria-hidden="true"></i> </p>       
           {% endif %}
     
     {% if page.excerpt and site.read_more != 'enabled' %}
