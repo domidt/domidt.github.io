@@ -41,7 +41,7 @@ layout: default
     
     {% if page.author %}<p class="page__meta" style="margin-bottom: 0;"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ page.author }}</p> {% endif %}
     {% if page.semester %}<p class="page__meta" style="margin-bottom: 0;"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ page.ects }} ECTS ({{ page.semester }})</p> {% endif %}
-    {% if page.venue and post.author %}<p class="archive__item-excerpt" itemprop="description"> {{ page.venue }} ({{ page.date | default: "1900-01-01" | date: "%Y" }}) </p>
+    {% if page.venue and page.author %}<p class="archive__item-excerpt" itemprop="description"> {{ page.venue }} ({{ page.date | default: "1900-01-01" | date: "%Y" }}) </p>
       {% elsif page.thesis %}<p class="archive__item-excerpt" itemprop="description"> Thesis title: {{ page.thesis }} supervised by {{ page.supervisor }} </p>
       {% elsif page.venue %}<p class="archive__item-excerpt" itemprop="description"> {{ page.venue }}</p> 
       {% else %}<p class="archive__item-excerpt" itemprop="description"> <i class="fa fa-clock-o" aria-hidden="true"></i> </p>       
