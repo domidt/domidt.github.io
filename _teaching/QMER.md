@@ -12,7 +12,6 @@ location: "Innsbruck, Austria"
 ---
 
 In this course, students are expected to develop their critical ability to independently undertake and solve business problems using scientific methods. We start by reviewing different research methods and outlining the quantitative research process. Following a hands-on approach, we guide students, step-by-step, through carrying out a small empirical research project in which they directly apply their new knowledge. Specifically, they learn how to develop, design, and implement a questionnaire for a predefined topic. Based on the collected data, they learn how to properly analyze it and how to present the research process as well as its results in form of a scientific paper. 
-
 The theoretical insights are structured in the following ten steps:
 
 ### Step 1: Theory, problem definition, research question
