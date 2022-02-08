@@ -62,6 +62,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
+Grants and Awards
+======
+  <ul>{% for post in site.awards reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+ 
 IT Skills
 ======
 * R
