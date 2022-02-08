@@ -193,6 +193,9 @@ collections:
   education:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -259,6 +262,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # awards
+  - scope:
+      path: ""
+      type: education
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
