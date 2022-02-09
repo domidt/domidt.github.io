@@ -161,7 +161,9 @@ hr {
 }
 
 /* lists */
-
+ul {
+  margin-bottom: 1ex;
+}
 ul li,
 ol li {
   margin-bottom: 0;
@@ -281,7 +283,7 @@ svg:not(:root) {
 
 nav {
   ul {
-    margin: 0 0 1ex;
+    margin: 0;
     padding: 0;
   }
 
