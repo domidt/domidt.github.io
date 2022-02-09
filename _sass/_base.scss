@@ -164,7 +164,7 @@ hr {
 
 ul li,
 ol li {
-  margin-bottom: 2em;
+  margin-bottom: 0;
 }
 
 li ul,
@@ -296,7 +296,7 @@ nav {
   /* override white-space for nested lists */
   ul li,
   ol li {
-    margin-bottom: 0;
+    margin-bottom: .2;
   }
 
   li ul,
