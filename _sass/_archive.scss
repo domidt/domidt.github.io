@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .archive {
-  margin-bottom: 2em;
+  margin-bottom: 0;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -28,14 +28,14 @@
 }
 
 .archive__subtitle {
-  margin: 1.414em 0 0;
-  padding-bottom: 0.5em;
+  margin: 0 0 0;
+  padding-bottom: 0;
   font-size: $type-size-5;
   color: mix(#fff, $gray, 25%);
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0;
   }
 }
 
@@ -52,7 +52,7 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: .2;
     border-bottom: none;
   }
 }
