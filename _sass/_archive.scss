@@ -103,7 +103,7 @@
   }
 
   .page__meta {
-    margin: 0 0 0;
+    margin: 0 0 4px;
   }
 }
 
@@ -158,12 +158,12 @@
 
 .feature__wrapper {
   @include clearfix();
-  margin-bottom: 2em;
+  margin-bottom: 0;
   border-bottom: 1px solid $border-color;
 }
 
 .feature__item {
-  margin-bottom: 2em;
+  margin-bottom: 0;
   font-size: 1.25rem;
 
   @include breakpoint($small) {
@@ -181,7 +181,7 @@
     font-size: 1.25rem;
 
     .archive__item-teaser {
-      margin-bottom: 2em;
+      margin-bottom: 0;
     }
 
     @include breakpoint($small) {
@@ -202,7 +202,7 @@
     font-size: 1.25rem;
 
     .archive__item-teaser {
-      margin-bottom: 2em;
+      margin-bottom: 0;
     }
 
     @include breakpoint($small) {
@@ -225,7 +225,7 @@
     font-size: 1.25rem;
 
     .archive__item-teaser {
-      margin-bottom: 2em;
+      margin-bottom: 0;
     }
 
     @include breakpoint($small) {
