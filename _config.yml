@@ -262,7 +262,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # awards
+  # _awards
   - scope:
       path: ""
       type: education
