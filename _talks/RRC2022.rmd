@@ -1,0 +1,17 @@
+---
+title: "Regulation Research Conference 2022"
+collection: talks
+type: "Conference presentation"
+permalink: /talks/RRC2022
+venue: "University of Regensburg"
+date: 2022-03-05
+location: "Regensburg, Germany"
+---
+
+Presented Paper: "Having a say on insider trading legislation: An experimental study on traders' regulatory choice"
+
+Please find the [conference website here](http://regulationresearch.online/1_7_rr-conference-2022.html)
+
+Attracted by the initiative from the research program for RegulationResearch, the conference provided researchers to present results which analyse the effectiveness of instruments.
+ 
+
