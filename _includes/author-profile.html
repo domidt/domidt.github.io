@@ -6,13 +6,18 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="w3-round">
+  {% if author.avatar %}
+  <div class="author__avatar">
+  <!-- <div class="w3-round"> \\-->
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="w3-round" alt="{{ author.name }}">
+      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}" itemprop="image" class="u-photo">
+ <!--	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="w3-round" alt="{{ author.name }}"> \\-->
+ <!-- <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}"> \\-->
     {% endif %}
   </div>
+  {% endif %}
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
