@@ -12,6 +12,6 @@ My academic background includes microeconomic fields, in particular game theory,
 
 My passion for research is driven by the ambitious objective to archieve further insights in economies which suffer from informational imperfections.
 I try to fulfill a supportive role in this process towards more efficient markets.
-Specifically, I conduct fundamental research to analyse adviser markets, information procurement, the distribution of alternative information, and insider trading.
+Specifically, I conduct fundamental research to analyse adviser markets, information procurement, the distribution of information, and insider trading.
 
 
