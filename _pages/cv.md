@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* February 2019 to 2022: Research Assistant
+* March 2023 to September 2022: Research Associate
+  * Université Paris 1, Centre d'Èconomie de la Sorbonne
+
+* February 2019 to February 2022: Research Assistant
   * Management Center Innsbruck, Department of Business & Management
   * Supervisor: FH-Prof. PD Dr. Thomas Stöckl
 
@@ -52,7 +55,7 @@ Work in progress
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
+  <ul>{% for post in site.talks[1:5] reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
