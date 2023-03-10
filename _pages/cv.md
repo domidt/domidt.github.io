@@ -55,7 +55,7 @@ Work in progress
   
 Talks
 ======
-  <ul>{% for post in site.talks[1:5] reversed %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
