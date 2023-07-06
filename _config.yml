@@ -265,7 +265,7 @@ defaults:
   # _awards
   - scope:
       path: ""
-      type: education
+      type: awards
     values:
       layout: single
       author_profile: true
