@@ -2,7 +2,7 @@
 title: "oTree: continuous double auction"
 collection: release
 permalink: /release/CDA
-excerpt: 'This introductory course offers an overview on topics based on information and decisions under uncertainty.'
+excerpt: 'Via four apps, I implemented experimental continuous double auctions with multiple continuously operating traders and multiple assets.'
 author: 'Dominik Schmidt'
 date: 2024-02-12
 paperurl: 'https://github.com/domidt/CDA'
