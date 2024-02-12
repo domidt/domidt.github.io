@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Dominik Schmidt"
   avatar           : /DominikSchmidt.png
-  bio              : "PostDoc researcher in Economics"
+  bio              : "Postdoctoral researcher in Economics"
   location         : "Paris, France"
   employer         : "Université Paris 1 - Panthéon Sorbonne"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -196,6 +196,9 @@ collections:
   awards:
     output: true
     permalink: /:collection/:path/
+  releases:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -271,6 +274,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _releases
+  - scope:
+      path: ""
+      type: releases
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      
 
 # Sass/SCSS
 sass:
