@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.github %}
-  You can find my releases on <u><a href="{{ site.author.github }}">my Github repositories</a>.</u>
+  You can find my releases on <u><a href="https://github.com/domidt/">my Github repositories</a>.</u>
 {% endif %}
 
 {% for post in site.releases reversed %}
