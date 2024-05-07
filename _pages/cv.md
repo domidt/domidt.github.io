@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * March 2023 to September 2025: Research Associate
-  * Université Paris 1, Centre d'Èconomie de la Sorbonne
+  * Université Paris 1 Pantéon-Sorbonne, Centre d'Èconomie de la Sorbonne
 
 * February 2019 to February 2022: Research Assistant
   * Management Center Innsbruck, Department of Business & Management
