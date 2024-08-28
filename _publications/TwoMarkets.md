@@ -1,7 +1,7 @@
 ---
 title: "Insider trading regulation and trader migration"
 collection: publications
-permalink: /progress/TwoMarkets
+permalink: /pubilcations/TwoMarkets
 excerpt: 'Paper aims to analyse traders'' behaviour and their intention to migrate between markets, if they are free to trade in multiple markets with different prevailing insider trading regulations.'
 author: "Robert Merl, Stefan Palan, Dominik Schmidt, & Thomas Stöckl"
 date: 2023-05-18
