@@ -184,7 +184,13 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  selectedPublications:
+    output: true
+    permalink: /:collection/:path/
   progress:
+    output: true
+    permalink: /:collection/:path/
+  selectedTalks:
     output: true
     permalink: /:collection/:path/
   talks:
