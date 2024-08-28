@@ -1,6 +1,6 @@
 ---
 title: "13<sup>th</sup> International Conference of the French Association of Experimental Economics"
-collection: talks
+collection: selected/Talks
 type: "Conference presentation"
 permalink: /talks/ASFEE2023
 venue: "Faculté d'Économie - Université Montpellier"
