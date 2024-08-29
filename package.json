@@ -11,7 +11,10 @@
     "theme",
     "minimal"
   ],
-  "author": "Michael Rose",
+  "author": [
+    "Michael Rose",
+    "Robert Zupko",
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/academicpages/academicpages.github.io/issues"
