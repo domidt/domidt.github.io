@@ -91,6 +91,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.at/citations?user=LOAnSv8AAAAJ&hl=en"
   email            : "dominikschmidt.ac@gmail.com"
+  arxiv            : 
   researchgate     : "https://www.researchgate.net/profile/Dominik-Schmidt-8"
   uri              :
   bitbucket        :
@@ -119,7 +120,16 @@ author:
   youtube          :
   wikipedia        :
 
+# Publication Category - The following the list of publication categories and their headings
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
 
+    
 # Reading Files
 include:
   - .htaccess
