@@ -56,9 +56,7 @@ Work in progress
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% if post.collection == 'selectedTalks' %}
       {% include archive-single-talk-cv.html %}
-    {% endif %}
   {% endfor %}</ul>
   
 Teaching
