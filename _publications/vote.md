@@ -7,7 +7,7 @@ author: 'Dominik Schmidt, Thomas Stöckl, & Stefan Palan'
 date: 2024-08-22
 venue: 'Journal of Banking and Finance'
 paperurl: 'https://doi.org/10.1016/j.jbankfin.2024.107295'
-citation: 'Schmidt, D. & Stöckl, T., & Palan S. (2024). Voting for insider trading regulation. An experimental study of informed and uninformed traders'' preferences, <i>Journal of Banking and Finance</i> *169* 107295, DOI 10.1016/j.jbankfin.2024.107295'
+citation: 'Schmidt, D. & Stöckl, T., & Palan S. (2024). Voting for insider trading regulation. An experimental study of informed and uninformed traders'' preferences, <i>Journal of Banking and Finance</i> <b>169</b> 107295, DOI 10.1016/j.jbankfin.2024.107295'
 
 ---
 
