@@ -13,7 +13,7 @@ title                    : "Dominik Schmidt"
 title_separator          : "|"
 name                     : &name "Dominik Schmidt"
 description              : &description "personal page"
-logo                     : /DominikSchmidt.png
+logo                     : /Schmidt_Dominik_11728-1.jpg
 url                      : "https://domidt.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "domidt/domidt.github.io"
