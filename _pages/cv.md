@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* March 2023 to September 2025: Chercheur associé (Research Associate)
+* March 2023: Chercheur associé (Research Associate)
   * Université Paris 1 Panthéon-Sorbonne, Centre d'Èconomie de la Sorbonne
 
 * February 2019 to February 2022: Research Assistant
